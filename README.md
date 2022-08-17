@@ -5,7 +5,7 @@
 
 Remark : 
 1. You can read my blog (record of learning journey) via : https://medium.com/@puriwat_sangrawee
-2. 2. You can also reach me directly via LinkedIn : https://www.linkedin.com/in/puriwat-sangrawee/
+2. You can also reach me directly via LinkedIn : https://www.linkedin.com/in/puriwat-sangrawee/
 
 
 
