@@ -8,7 +8,8 @@
 Remark : 
 1. You can read my blog (record of learning journey) via : https://medium.com/@puriwat_sangrawee
 2. You can reach me directly via LinkedIn : https://www.linkedin.com/in/puriwat-sangrawee/
-3. You can also reach me via email : puriwat_sangrawee@hotmail.com
+3. You can view my kaggle compeititon via : https://www.kaggle.com/pongpangpuriwat 
+4. You can also reach me via email : puriwat_sangrawee@hotmail.com
 
 
 
